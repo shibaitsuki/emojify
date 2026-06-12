@@ -1,0 +1,9 @@
+# env
+.env
+
+# build artifacts
+*.exe
+preview.png
+
+# claude code
+.claude/

@@ -1,0 +1,11 @@
+# flyctl launch added from .gitignore
+# env
+**/.env
+
+# build artifacts
+**/*.exe
+**/preview.png
+
+# claude code
+**/.claude
+fly.toml
