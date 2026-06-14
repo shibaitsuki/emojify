@@ -2,7 +2,7 @@
 
 テキストからDiscordのカスタム絵文字を作成するBotです。
 
-[Botをサーバーに追加する](https://discord.com/oauth2/authorize?client_id=1515031771266289837)
+[Botをサーバーに追加する](https://discord.com/oauth2/authorize?client_id=1515031771266289837&permissions=8797166764032&integration_type=0&scope=bot+applications.commands&permissions=1073741824&scope=bot+applications.commands)
 
 ![sample](sample.png)
 
