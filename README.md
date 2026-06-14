@@ -2,6 +2,8 @@
 
 テキストからDiscordのカスタム絵文字を作成するBotです。
 
+[Botをサーバーに追加する](https://discord.com/oauth2/authorize?client_id=1515031771266289837)
+
 ![sample](sample.png)
 
 ## コマンド
@@ -48,3 +50,7 @@ docker compose up -d
 - `applications.commands`
 - `bot`
   - `Manage Emojis and Stickers`
+
+## 使用フォント
+
+[M PLUS Rounded 1c](https://fonts.google.com/specimen/M+PLUS+Rounded+1c) (SIL Open Font License 1.1)
