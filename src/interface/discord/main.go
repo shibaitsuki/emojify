@@ -17,10 +17,7 @@ import (
 // discord のエントリーポイント
 func Discord() {
 	// .env -> 環境変数
-	err := godotenv.Load(".env")
-	if err != nil {
-		fmt.Println("Error loading .env file: ", err)
-	}
+	godotenv.Load(".env")
 
 	var (
 		DISCORD_BOT_TOKEN = os.Getenv("DISCORD_BOT_TOKEN")
