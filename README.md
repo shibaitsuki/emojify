@@ -2,6 +2,8 @@
 
 テキストからDiscordのカスタム絵文字を作成するBotです。
 
+![sample](sample.png)
+
 ## コマンド
 
 | コマンド | 説明 |
